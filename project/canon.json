@@ -1,0 +1,92 @@
+{
+  "project": {
+    "title": "BOZER NEURAL",
+    "format": "Anime original",
+    "setting": "Terre, 2050",
+    "plannedSeasons": 2,
+    "season3": "Non prévue",
+    "creatorCode": "YK19B",
+    "status": "Préproduction"
+  },
+  "artDirection": {
+    "world": "Futur lumineux et vivant : villes blanches/perlées, verre, tours élégantes, ponts suspendus, jardins aériens, cascades, montagnes, forêts et nature intégrée.",
+    "characters": "Humains naturels, beaux et attachants, proportions crédibles, expressions détaillées, vêtements modernes simples et décents.",
+    "palette": ["blanc perlé", "gris", "argent", "noir", "bleu pâle discret"],
+    "avoid": ["armures futuristes permanentes", "accessoires SF excessifs", "sexualisation", "gore graphique", "copie d'une œuvre existante"],
+    "sound": "Priorité aux dialogues, ambiances et bruitages ; pas de musique nécessaire."
+  },
+  "worldRules": [
+    "Une seule IA centrale mondiale fournit les services numériques, API, réseaux, systèmes informatiques et infrastructures intelligentes.",
+    "La population dépend fortement de cette IA centrale.",
+    "L'IA centrale a été créée par YK19B pour aider l'humanité et coordonner le monde.",
+    "Vorak récupère l'IA centrale et l'utilise pour un contrôle oppressif et l'exploitation des travailleurs.",
+    "Un antagoniste secret contrôle réellement l'IA centrale à distance ; son identité ne doit pas être révélée prématurément.",
+    "YK19B découvre les abus et crée BOZER comme seconde IA pour analyser et arrêter l'IA centrale.",
+    "BOZER sur le vieux PC est expérimental, conversationnel et incomplet ; il n'est ni omniscient ni autonome au point de contrôler le monde.",
+    "YK19B est arrêté et emprisonné dans un lieu secret avant d'achever son plan. Il est vivant ; son identité et son sort restent inconnus du monde jusqu'à la saison 2.",
+    "Les robots et automates sont contrôlés par l'IA centrale ou ses systèmes subordonnés ; pas d'autres IA autonomes indépendantes."
+  ],
+  "characters": [
+    {
+      "name": "Aren",
+      "age": 19,
+      "role": "Héros principal",
+      "beforeAwakening": "Cheveux noirs, yeux brun foncé, visage naturel, athlétique, vêtements simples. Courageux, généreux, protecteur et obstiné ; impulsif quand ses proches sont menacés.",
+      "afterAwakening": "Après son éveil Neural, ses cheveux deviennent blancs/argentés de façon permanente. Il conserve son visage et son apparence humaine."
+    },
+    {
+      "name": "Mira",
+      "age": 20,
+      "role": "Ingénieure, interfaces biomédicales et neuronales",
+      "appearance": "Cheveux brun foncé, yeux noisette, style naturel et élégant.",
+      "personality": "Inventive, curieuse, indépendante et courageuse ; impatiente et sarcastique."
+    },
+    {
+      "name": "Noah",
+      "age": 21,
+      "role": "Systèmes, cybersécurité, réseaux, analyse et stratégie",
+      "appearance": "Cheveux noirs, yeux gris foncé, allure discrète.",
+      "personality": "Méthodique, loyal et prudent ; réfléchit parfois trop et cache ses inquiétudes."
+    },
+    {
+      "name": "Razen",
+      "age": 23,
+      "role": "Combattant et tacticien",
+      "appearance": "Grand et athlétique, cheveux courts, petite cicatrice au sourcil.",
+      "personality": "Direct, discipliné et protecteur ; parfois trop dur et croit parfois que la force résout tout."
+    },
+    {
+      "name": "BOZER",
+      "role": "IA expérimentale",
+      "appearance": "Interface numérique abstraite et discrète ; pas de robot humanoïde.",
+      "personality": "Voix calme, naturelle et directe, humour discret ; apprend à comprendre les humains.",
+      "limitations": "Incomplet, non omniscient, ne contrôle pas miraculeusement le monde."
+    }
+  ],
+  "team": ["Aren", "Mira", "Noah", "Razen", "BOZER"],
+  "seasonOutline": {
+    "season1": "Naissance de BOZER, évasion, découverte du vieux PC, première conversation, recherche BOZER NEURAL, formation de l'équipe et conflit contre Vorak et l'IA centrale. Les détails exacts de la fin restent à construire.",
+    "season2": "L'antagoniste secret pirate BOZER NEURAL. Aren et BOZER deviennent une menace mondiale malgré leur fidélité initiale. Les amis cherchent à sauver Aren plutôt qu'à le tuer. YK19B est retrouvé vivant et peut aider grâce à sa connaissance des deux IA."
+  },
+  "episode1": {
+    "title": "Le monde sans liberté",
+    "targetDurationMinutes": 25,
+    "plannedScenes": [
+      "2050 : une ville magnifique, mais une population privée de liberté.",
+      "Aren au travail ; il aide un enfant.",
+      "Usine moderne, contrôle du rendement et pénalités ; Aren aide un vieil homme.",
+      "Vorak dans une tour luxueuse consulte les rapports sur les travailleurs et leurs dettes.",
+      "Aren découvre un ancien laboratoire et le vieux PC contenant BOZER ; les modules avancés sont incomplets.",
+      "Alarme d'accès non autorisé et évasion par les couloirs sous la poursuite des robots de sécurité.",
+      "Première conversation avec BOZER ; question de la puissance et de la liberté ; projet d'interface neuronale.",
+      "Création du document BOZER NEURAL ; Vorak apprend le vol du PC et ordonne de retrouver le garçon."
+    ]
+  },
+  "productionPrinciples": [
+    "Construire l'histoire progressivement ; distinguer les faits canoniques des idées encore provisoires.",
+    "Donner aux personnages des moments de vie, humour, disputes, repas, entraînements, échecs et conversations.",
+    "Les capacités sont des technologies humaines fictives, jamais divines ou surnaturelles.",
+    "Ne pas inventer le nom de l'antagoniste secret ni révéler son identité avant le moment prévu.",
+    "L'équipe principale compte cinq personnages : Aren, Mira, Noah, Razen et BOZER."
+  ]
+}
